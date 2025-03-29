@@ -1,9 +1,13 @@
-.bg-img {
-    height: 100vh;
-    width: 100vw;
-    object-fit: cover;
-    filter:brightness(0.6);
-    position:absolute;
-    top:0;
-    left:0;
-}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
