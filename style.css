@@ -1,0 +1,24 @@
+@font-face { 
+    font-family: 'yesteryear'; 
+    src: url('./assets/Fonts/Yesteryear-Regular.ttf') format('truetype'); 
+    font-family: 'Fleur De Leah'; 
+    src: url('./assets/Fonts/FleurDeLeah-Regular.ttf') format('truetype');
+} 
+
+html{
+    background-color: antiquewhite;
+}
+
+h1 {
+    color:red;
+    text-align: center;
+    font-style: italic;
+    font-family: yesteryear, cursive;
+    border: 3px solid black;
+}
+
+p {
+    font-family: Fleur De Leah, cursive;
+    font-size: 40px;
+    font-weight: bold;
+}
