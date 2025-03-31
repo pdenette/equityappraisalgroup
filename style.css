@@ -1,9 +1,9 @@
 @font-face {
-  font-family: yesterYear;
-  src: url(/assets/Fonts/Yesteryear-Regular.ttf);
+  font-family: DMSerif;
+  src: url(/assets/Fonts/DMSerifText-Regular.ttf);
 }
 
 body {
-  font-family: yesterYear !important;
+  font-family: DMSerif !important;
   color: #5CD5C6;
 }
